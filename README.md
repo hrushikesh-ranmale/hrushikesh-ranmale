@@ -28,12 +28,12 @@
 ## ⚡ About Me
 
 ```yaml
-name: Hrushikesh Ranmale
-role: .NET Full Stack Developer (in progress)
-education: B.Sc. Computer Science Graduate
-focus: ASP.NET Core, React, SQL Server
-mindset: Problem solver | Real-world builder | Lifelong learner
-goal_2026: Become a professional Full Stack Developer 🚀
+Name: Hrushikesh Ranmale
+Role: .NET Full Stack Developer (in progress)
+Education: B.Sc. Computer Science Graduate
+Focus: ASP.NET Core, React, SQL Server
+Mindset: Problem solver | Real-world builder | Lifelong learner
+Goal_2026: Become a professional Full Stack Developer 🚀
 ```
 
 - 🎓 B.Sc. Computer Science Graduate
