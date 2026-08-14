@@ -1,169 +1,132 @@
-<div align="center">
+# 👋 Hrushikesh Ranmale
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF0080,100:00C9FF&height=230&section=header&text=Hrushikesh%20Ranmale&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=.NET%20Full%20Stack%20Developer%20%7C%20C%23%20%7C%20ASP.NET%20Core%20%7C%20React%20%7C%20SQL%20Server&descAlignY=58&descSize=18" width="100%"/>
+**Passionate .NET Full Stack Developer | C# | ASP.NET Core | React | SQL Server**
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C+I'm+Hrushikesh+%F0%9F%91%8B;.NET+Full+Stack+Developer+%E2%9A%A1;C%23+%7C+ASP.NET+Core+%7C+React+%7C+SQL+Server;Turning+ideas+into+real+apps+%F0%9F%9A%80;Always+leveling+up+%F0%9F%8C%B1&font=Fira+Code&center=true&width=650&height=50&duration=2800&pause=700&color=FF0080&vCenter=true&size=23" alt="Typing SVG" />
+---
 
-<br/>
+## 🎯 About Me
 
-<a href="https://hrushikesh-ranmale.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF0080?style=for-the-badge&logoColor=white&labelColor=8E2DE2" />
-</a>
-<a href="https://www.linkedin.com/in/hrushikesh-ranmale/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/hrushikesh-ranmale">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+- 🎓 **B.Sc. Computer Science** Graduate from B.P.H.E. Society's Ahmednagar College (2022–2025)
+- 💻 **Junior Software Engineer** at Magnetic Infotech Pvt. Ltd, Hyderabad (Since June 2026)
+- 🌱 Passionate about **.NET Full Stack Development**
+- 🧠 Interested in **solving problems** and **building real-world applications**
+- 🎯 Goal: Become a **strong Full Stack Developer**
+- 📍 **Location:** Hyderabad | **Available for:** On-site, Hybrid, or Remote roles
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=hrushikesh-ranmale&color=FF0080&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/hrushikesh-ranmale?style=for-the-badge&color=8E2DE2&labelColor=0f0f0f)
-
-</div>
-
-<br/>
-
-## ⚡ About Me
-
-```yaml
-name: Hrushikesh Ranmale
-role: .NET Full Stack Developer (in progress)
-education: B.Sc. Computer Science Graduate
-focus: ASP.NET Core, React, SQL Server
-mindset: Problem solver | Real-world builder | Lifelong learner
-goal_2026: Become a professional Full Stack Developer 🚀
-```
-
-- 🎓 B.Sc. Computer Science Graduate
-- 💻 Passionate about **.NET Full Stack Development**
-- 🌱 Currently sharpening skills in **ASP.NET Core, React & SQL Server**
-- 🧠 Love solving problems and shipping real-world applications
-- 🎯 Goal: become a strong, professional Full Stack Developer
-
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### **👨‍💻 Languages**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,react,js,html,css,bootstrap,mysql,postgres,git,github,vscode,postman,visualstudio&theme=dark&perline=8" />
+### **⚙️ Backend**
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=flat-square&logo=api&logoColor=white)
 
-</div>
+### **🎨 Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4CAF50?style=flat-square)
 
-<div align="center">
+### **🗄️ Database**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=database&logoColor=white)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### **🔧 Tools & Methods**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-</div>
+### **🏗️ Architecture & Best Practices**
+- MVC Pattern
+- Clean Code Principles
+- SOLID Principles
+- Best Practices
 
-<br/>
+---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🌌 **Solar System** | [View Project](https://hrushikesh-ranmale.github.io/Solar-System/)
+An interactive Solar System website with stunning animations and an immersive space experience.
 
-<a href="https://hrushikesh-ranmale.github.io/Solar-System/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrushikesh-ranmale&repo=Solar-System&theme=radical&hide_border=true&border_radius=12" width="410"/>
-</a>
-<a href="https://hrushikesh-ranmale.github.io/portfolio/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrushikesh-ranmale&repo=University-Dashboard&theme=radical&hide_border=true&border_radius=12" width="410"/>
-</a>
+**Tech:** `HTML` • `CSS` • `JavaScript`
 
-</div>
+---
 
-<div align="center">
+### 🎓 **University Management System (Dashboard)**
+A comprehensive web-based dashboard designed to manage and display university-related information. Built with modern ASP.NET Core and SQL Server.
 
-| Project | Description | Tech Stack |
-|:---:|:---|:---:|
-| 🌌 **[Solar System](https://hrushikesh-ranmale.github.io/Solar-System/)** | Interactive Solar System website with animations and an immersive space experience | `HTML` `CSS` `JavaScript` |
-| 🎓 **University Dashboard** | Web-based dashboard to manage and display university-related information | `ASP.NET Core MVC` `C#` `SQL Server` |
-| 📝 **Quiz Application** | Java-based quiz app with registration, login, quizzes & score management | `Java` `SQL` |
+**Tech:** `ASP.NET Core MVC` • `C#` • `SQL Server` • `Entity Framework Core`
 
-</div>
+---
 
-<br/>
+### 📝 **Quiz Application**
+A Java-based quiz application with user registration, login, multiple quizzes, and comprehensive score management system.
 
-## 📊 GitHub Stats
+**Tech:** `Java` • `SQL` • `OOP` • `Database Design`
 
-<div align="center">
+---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-ranmale&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikesh-ranmale&layout=compact&theme=radical&hide_border=true" />
+## 📚 Currently Learning
 
-<br/>
+- 🔹 Advanced ASP.NET Core Patterns
+- 🔹 REST API Design & Best Practices
+- 🔹 Entity Framework Core Advanced Features
+- 🔹 React Development & State Management
+- 🔹 SQL Server Optimization
+- 🔹 Clean Code & SOLID Principles
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikesh-ranmale&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrushikesh-ranmale&theme=redical&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hrushikesh-ranmale&theme=radical&no-frame=true&row=1&column=7" />
-</div>
-
-<br/>
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-![ASP.NET Core](https://img.shields.io/badge/-Advanced%20ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF0080?style=flat-square&logo=fastapi&logoColor=white)
-![EF Core](https://img.shields.io/badge/-Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![SQL Optimization](https://img.shields.io/badge/-SQL%20Optimization-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Clean Code](https://img.shields.io/badge/-Clean%20Code%20%26%20Best%20Practices-8E2DE2?style=flat-square&logo=codefactor&logoColor=white)
-
-</div>
-
-<br/>
+---
 
 ## 🎯 2026 Goals
 
-- 🚀 Become a professional Full Stack Developer
-- 💼 Land a strong software development role
-- 🧩 Build more real-world projects
-- 📚 Sharpen problem-solving skills
-- 🌎 Contribute to open-source projects
+| Goal | Objective |
+|------|-----------|
+| 🚀 **Professional Growth** | Become a professional Full Stack Developer with deep expertise |
+| 💼 **Career** | Secure a strong software development role at a great company |
+| 🧩 **Projects** | Build more real-world applications that solve actual problems |
+| 📚 **Skills** | Improve problem-solving abilities and algorithmic thinking |
+| 🌍 **Community** | Contribute to open-source projects |
+| 📈 **Knowledge** | Stay updated with latest technologies and industry trends |
 
-<br/>
+---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
+
+```
+Projects:        3+ Completed & Ongoing
+Dedication:      100% Committed
+Learning Curve:  ∞ Always Eager
+```
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on interesting projects and learn from the amazing developer community!
+
+- 📧 **Email:** [Your Email Here]
+- 💼 **LinkedIn:** [Your LinkedIn Profile]
+- 🐙 **GitHub:** [Your GitHub Profile]
+- 🌐 **Portfolio:** [Your Portfolio Website]
+
+---
+
+### ⭐ If you find my projects interesting, please star them! It motivates me to keep building awesome things.
+
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/hrushikesh-ranmale/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://hrushikesh-ranmale.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://github.com/hrushikesh-ranmale">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Made with ❤️ by Hrushikesh Ranmale**
 
-</div>
+*"Code is poetry written for computers and humans alike."* 💻✨
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:FF0080,100:8E2DE2&height=120&section=footer" width="100%"/>
-
-<div align="center">
-<i>⭐️ Thanks for stopping by — always open to collaborating on interesting projects!</i>
 </div>
